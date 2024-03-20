@@ -15,7 +15,7 @@
 1. 克隆仓库到本地机器：
 
 ```bash
-git clone https://gitee.com/Snake-Konginchrist/BeakoutGame.git
+git clone https://gitee.com/Snake-Konginchrist/BreakoutGame.git
 ```
 
 2. 进入项目目录：
@@ -42,7 +42,7 @@ java -cp bin Main
 
 ## 构建工具
 
-- [Java JDK](https://www.oracle.com/java/technologies/javase-jdk21-downloads.html) - 开发环境
+- [Java JDK](https://www.oracle.com/java/technologies/downloads/#java21) - 开发环境
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 推荐的IDE
 
 ## 贡献
